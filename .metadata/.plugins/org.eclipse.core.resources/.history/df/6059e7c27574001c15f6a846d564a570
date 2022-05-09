@@ -1,0 +1,14 @@
+package Arrays;
+
+import java.util.Scanner;
+
+public class DeleteNo {
+
+	public static void main(String[] args) {
+		int n,x, flag=1, loc=0;
+		
+		Scanner s = new Scanner(System.in);
+
+	}
+
+}

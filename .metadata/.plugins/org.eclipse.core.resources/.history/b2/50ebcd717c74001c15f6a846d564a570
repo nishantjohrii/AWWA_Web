@@ -1,0 +1,17 @@
+package Arrays;
+
+public class ArrayForEach {
+
+	public static void main(String[] args) {
+		
+		int [] array = new int[5];
+		
+		for (int var:array) {
+			
+			array[var] = (int)(Math.random()*1000);
+			System.out.println(var);
+		}
+
+	}
+
+}
